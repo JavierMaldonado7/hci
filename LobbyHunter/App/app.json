@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "App",
+    "slug": "app",
+    "version": "1.0.0",
+    "scheme": "App",
+    "orientation": "portrait",
+    "icon": "",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.lobbyhunter"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundImage": ""
+      },
+      "package": "com.anonymous.playderapp"
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}
